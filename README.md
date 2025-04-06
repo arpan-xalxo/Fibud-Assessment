@@ -133,7 +133,7 @@ model Match {
 ---
 
 ## 📞 **Support**
-For any issues, feel free to create a GitHub issue or me.
+For any issues, feel free to create a GitHub issue or Contact me.
 
 ---
 
