@@ -132,15 +132,8 @@ model Match {
 
 ---
 
-## 📌 **Next Steps**
-- Implement authentication (JWT-based login for experts and clients).
-- Add pagination support for fetching large datasets.
-- Deploy to cloud platforms (e.g., AWS, Vercel, or DigitalOcean).
-
----
-
 ## 📞 **Support**
-For any issues, feel free to create a GitHub issue or contact the project maintainers.
+For any issues, feel free to create a GitHub issue or me.
 
 ---
 
